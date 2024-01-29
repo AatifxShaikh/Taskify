@@ -21,7 +21,7 @@ Welcome to the Fullstack Trello Clone! This project is an end-to-end implementat
   - Board limit for each organization.
   - Stripe subscription for organizations to unlock unlimited boards.
 - **Landing Page:** A visually appealing landing page to introduce the application.
-- **Database:** MySQL database used with Prisma ORM.
+- **Database:** postgresql database used with Prisma ORM.
 - **UI Frameworks:** shadcnUI & TailwindCSS for styling.
 
 ## Getting Started
