@@ -33,8 +33,7 @@ Welcome to the Fullstack Trello Clone! This project is an end-to-end implementat
 
 2. ``` bash
    npm install
-
-3 # Note: Configure postgresql connection in the .env file before running the migrations.
+ # Note: Configure postgresql connection in the .env file before running the migrations.
 # Make sure you have Prisma installed globally, or use npx prisma.
 ```bash
 npx prisma migrate dev
